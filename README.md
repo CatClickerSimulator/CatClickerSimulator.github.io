@@ -1,2 +1,0 @@
-# CatClickerSimulator.github.io
-Welcome
